@@ -31,6 +31,7 @@ end
 group :test do
   gem 'rspec', '3.9.0'
   gem 'webrat', '0.7.1'
+  gem 'spork'
 end
 
 # Reduces boot times through caching; required in config/boot.rb
